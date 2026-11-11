@@ -91,4 +91,4 @@ l3 = input("Podaj pierwszy tekst: ")
 l4 = input("Podaj drugi tekst: ")
 l5 = l3[:len(l3)//2]+l4[len(l4)//2:]
 print(f"Połączone połówki tekstów: {l5}")
-//Wykonał Konrad Greszta 75040
+#Wykonał Konrad Greszta 75040
